@@ -1,9 +1,5 @@
-# CS 3345  
-## Programming Assignments #2 & #3  
+# CS 3345 - Data Structures and Algorithms 
 **University of Texas at Dallas**  
-**Date Assigned:** February 26, 2025  
-**Due:** March 12, 2025  
-
 ---
 
 ## Introduction
