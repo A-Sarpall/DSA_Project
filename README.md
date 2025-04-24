@@ -79,38 +79,6 @@ You will create **two implementations** of the Map ADT:
 2. **Hash Table with Separate Chaining**
    - Experiment with hash functions and table sizes for optimal results.
 
----
-
-## Instructions
-
-1. Implement your map data structures as described above.
-2. Submit a zip file containing **two programs**:
-    - One uses a BST map
-    - One uses a hash table map
-
-### Each program should:
-
-- Use `merchant.txt` (Shakespeare’s *The Merchant of Venice*, lowercase and spaces only) as input
-- Prompt for:
-  - A positive integer for **window size**
-  - A positive integer for the **output text length**
-- Write the output text (of specified length) to a text file
-- Only differ in the **map implementation** (i.e., proper abstraction must be used)
-
-### Style & Submission Guidelines
-
-- Use good coding style and **comment your code well**
-- If you discuss the problem with someone, **include their name** in the comments
-- If you implemented a balanced BST, **note that clearly in the comments**
-
-### File Naming
-
-- **Binary Search Tree program:** `FILIPA2.java` or `FILIPA2.cpp`  
-- **Hash Table program:** `FILIPA3.java` or `FILIPA3.cpp`  
-  - Replace `FI` with first two letters of your first name, and `LI` with first two of your last name.  
-    - Example: Andrew Nemec → `ANNEPA2.cpp`
-
----
 
 > You may base your code on that in the textbook, but otherwise all code should be your own.  
 > **Do not use premade data structures!**  
